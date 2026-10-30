@@ -1,0 +1,5 @@
+Verified 2026-10-30
+Six unit tests passed.
+Independent csv/statistics checks matched every group count, mean, median, sample SD, minimum and maximum.
+Daphne values match the island-coded Daphne observations.
+Fictional demo completed successfully.
